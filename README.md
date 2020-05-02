@@ -136,7 +136,6 @@ GitHUb Repo: https://github.com/rvclist/rvclist15
 <li>It should have ability to create a bit.ly link from URL</li>
 <li>It should have ability to share bit.ly link</li>
 </ul>
-<hr />
 <ul>
 <li>Work on CSS</li>
 <li>Work on webpage content (photos, descriptions, title tag, etc.)</li>
