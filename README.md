@@ -125,9 +125,10 @@
 <li>Work on CSS</li>
 <li>Work on webpage content (photos, descriptions, title tag, etc.)</li>
 </ul>
-<p>Week 15:&nbsp;<a href="http://bit.ly/2pzC9Jx">http://bit.ly/2pzC9Jx</a>&nbsp;</p>
-<h6>Shopping List Version 4.1</h6>
+<p>Week 15:&nbsp;<a href="https://bit.ly/2VZEAHH ">https://bit.ly/2VZEAHH </a>&nbsp;</p>
+<h6>Shopping List</h6>
 <ul>
+GitHUb Repo: https://github.com/rvclist/rvclist15
 <li>Add ability to convert shared URL to a bitly link</li>
 </ul>
 <p>Slides:<span>&nbsp;</span><a href="http://bit.ly/2uGinTK">http://bit.ly/2uGinTK</a></p>
